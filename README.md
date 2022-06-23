@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, je suis lasere77</h1> 
+<h1 align="center">Hi 👋, I'm lasere77</h1> 
 <h3 align="center">I am an apprentice developer, I mostly develop in java and python and more rarely in html/css</h3>  
   
 - 🌱 I am currently learning **self-taught computing**    
