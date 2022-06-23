@@ -5,7 +5,7 @@
 
 -  my youtube **channel:**
  
-<a href="https://www.youtube.com/channel/UC8V98QKWEdGA262EjE6LFVg/videos" target="blank"><img align="center" src="https://lasere77.github.io/firefox-shortcut/img/yt.png" alt="terrainwax" height="70" width="70" /></a> 
+<a href="https://www.youtube.com/channel/UC8V98QKWEdGA262EjE6LFVg/videos"><img align="center" src="https://lasere77.github.io/firefox-shortcut/img/yt.png" height="70" width="70" /></a> 
 
 
 ---  
