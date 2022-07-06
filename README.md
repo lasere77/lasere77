@@ -9,3 +9,5 @@
 
 
 ---  
+
+<p>Hi, I am currently working on a new loggepy update, it is quite long to implement sorry if there are not many commits... but this update will not disappoint you</p>
