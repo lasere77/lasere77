@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm lasere77</h1> 
+<h1 align="center">Hi 👋, I'm lasere77, I'm 15 years old</h1> 
 <h3 align="center">I am an apprentice developer, I mostly develop in java and python and more rarely in html/css</h3>  
   
 - 🌱 I am currently learning **self-taught computing**    
@@ -9,5 +9,3 @@
 
 
 ---  
-
-<p>Hi, I am currently working on a new loggepy update, it is quite long to implement sorry if there are not many commits... but this update will not disappoint you</p>
