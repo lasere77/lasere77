@@ -9,3 +9,4 @@
 
 
 ---  
+currently I am working on a java version of loggepy that you can find in the loggepy repository java edition branch
