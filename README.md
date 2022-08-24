@@ -9,4 +9,4 @@
 
 
 ---  
-currently I am working on a java version of loggepy that you can find in the loggepy repository java edition branch
+currently I'm working on loggepy java edition which will be more fluid and more aesthetic and more secure
