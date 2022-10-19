@@ -9,4 +9,4 @@
 
 
 ---  
-currently I'm working on loggepy java edition which will be more fluid and more aesthetic and more secure
+i am currently learning c++
