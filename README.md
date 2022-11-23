@@ -9,4 +9,4 @@
 
 
 ---  
-i am currently learning c++
+i am currently learning c++ and assembly
